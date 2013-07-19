@@ -2181,6 +2181,7 @@ glPopMatrix();
 
 void parkiran(){
  //belum diisi
+ //nanti diisi
 }
 void pohon(){
 //batang
