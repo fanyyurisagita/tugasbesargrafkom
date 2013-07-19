@@ -2179,6 +2179,9 @@ glPopMatrix();
 }
 
 
+void parkiran(){
+ //belum diisi
+}
 void pohon(){
 //batang
 GLUquadricObj *pObj;
