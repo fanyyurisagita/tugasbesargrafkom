@@ -2180,9 +2180,67 @@ glPopMatrix();
 
 
 void parkiran(){
- //belum diisi
- //nanti diisi
+//parkiran
+glPushMatrix();
+glColor3f(1,1,1);
+glTranslatef(49,0.1,-22);
+glScalef(0.3,0.05,0.1);
+glutSolidCube(20);
+glPopMatrix();
+
+glPushMatrix();
+glColor3f(0,0,0);
+glTranslatef(55,0.1,-22);
+glScalef(0.3,0.05,0.1);
+glutSolidCube(20);
+glPopMatrix();
+
+glPushMatrix();
+glColor3f(1,1,1);
+glTranslatef(61,0.1,-22);
+glScalef(0.3,0.05,0.1);
+glutSolidCube(20);
+glPopMatrix();
+
+glPushMatrix();
+glColor3f(0,0,0);
+glTranslatef(67,0.1,-22);
+glScalef(0.3,0.05,0.1);
+glutSolidCube(20);
+glPopMatrix();
+
+glPushMatrix();
+glColor3f(1,1,1);
+glTranslatef(73,0.1,-22);
+glScalef(0.3,0.05,0.1);
+glutSolidCube(20);
+glPopMatrix();
+
+glPushMatrix();
+glColor3f(0,0,0);
+glTranslatef(79,0.1,-22);
+glScalef(0.3,0.05,0.1);
+glutSolidCube(20);
+glPopMatrix();
+
+glPushMatrix();
+glColor3f(1,1,1);
+glTranslatef(85,0.1,-22);
+glScalef(0.3,0.05,0.1);
+glutSolidCube(20);
+glPopMatrix();
+
+
+//alas parkiran
+
+glPushMatrix();
+glColor3f(0.7,0.7,0.7);
+glTranslatef(66,0.1,10);
+glScalef(2,0.01,3);
+glutSolidCube(20);
+glPopMatrix();
 }
+
 void pohon(){
 //batang
 GLUquadricObj *pObj;
