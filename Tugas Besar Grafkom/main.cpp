@@ -2862,6 +2862,95 @@ glutSolidSphere(7, 50, 50);
 glPopMatrix();
 }
 
+void mobil{
+//mobil
+glColor3f(0,0,1);
+glPushMatrix();
+glTranslatef(52,3,-10);
+glScalef(1.0,1.0,2.0);
+glutSolidCube(6.0f);
+glPopMatrix();
+
+//cup depan
+glColor3f(0,0,1);
+glPushMatrix();
+glTranslatef(52,1.5,-15);
+glScalef(1.0,0.75,1);
+glutSolidCube(6.0f);
+glPopMatrix();
+
+//kaca
+glColor3f(0,1,1);
+glPushMatrix();
+glTranslatef(52,4,-5.3);
+glScalef(0.75,0.5,0.5);
+glutSolidCube(6.0f);
+glPopMatrix();
+
+glColor3f(0,1,1);
+glPushMatrix();
+glTranslatef(52,5,-16);
+glScalef(0.75,0.3,0.1);
+glutSolidCube(6.0f);
+glPopMatrix();
+
+glColor3f(0,1,1);
+glPushMatrix();
+glTranslatef(49.75,4,-7);
+glScalef(0.3,0.5,0.5);
+glutSolidCube(6.0f);
+glPopMatrix();
+
+glColor3f(0,1,1);
+glPushMatrix();
+glTranslatef(49.75,4,-12);
+glScalef(0.3,0.5,0.5);
+glutSolidCube(6.0f);
+glPopMatrix();
+
+glColor3f(0,1,1);
+glPushMatrix();
+glTranslatef(54.3,4,-12);
+glScalef(0.3,0.5,0.5);
+glutSolidCube(6.0f);
+glPopMatrix();
+
+glColor3f(0,1,1);
+glPushMatrix();
+glTranslatef(54.3,4,-7);
+glScalef(0.3,0.5,0.5);
+glutSolidCube(6.0f);
+glPopMatrix();
+
+//lampu
+glColor3f(1,0,0);
+glPushMatrix();
+glTranslatef(50,1,-4.2);
+glScalef(0.1,0.2,0.1);
+glutSolidCube(6.0f);
+glPopMatrix();
+
+glColor3f(1,0,0);
+glPushMatrix();
+glTranslatef(54,1,-4.2);
+glScalef(0.1,0.2,0.1);
+glutSolidCube(6.0f);
+glPopMatrix();
+
+glColor3f(1,0,0);
+glPushMatrix();
+glTranslatef(50,1,-18);
+glScalef(0.1,0.2,0.1);
+glutSolidCube(6.0f);
+glPopMatrix();
+
+glColor3f(1,0,0);
+glPushMatrix();
+glTranslatef(54,1,-18);
+glScalef(0.1,0.2,0.1);
+glutSolidCube(6.0f);
+glPopMatrix();
+}
 //akhir objek
 
 //train 2D
@@ -3287,6 +3376,7 @@ void display(void) {
         masjid();
         rumput();
         parkiran();
+        mobil();
 
         glutSwapBuffers();
         glFlush();
