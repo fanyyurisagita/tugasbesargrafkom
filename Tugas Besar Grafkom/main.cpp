@@ -3228,7 +3228,7 @@ void display(void) {
         detail_menara();
         masjid();
         rumput();
-
+        parkiran();
 
         glutSwapBuffers();
         glFlush();
