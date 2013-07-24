@@ -2862,7 +2862,7 @@ glutSolidSphere(7, 50, 50);
 glPopMatrix();
 }
 
-void mobil{
+void mobil(){
 //mobil
 glColor3f(0,0,1);
 glPushMatrix();
