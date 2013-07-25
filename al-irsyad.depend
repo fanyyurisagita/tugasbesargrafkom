@@ -80,3 +80,111 @@
 	<math.h>
 	"vec3f.h"
 
+1374629892 source:c:\documents and settings\resmi novianti\my documents\downloads\tugasbesargrafkom-master\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1374629892 c:\documents and settings\resmi novianti\my documents\downloads\tugasbesargrafkom-master\imageloader.h
+
+1374629892 source:c:\documents and settings\resmi novianti\my documents\downloads\tugasbesargrafkom-master\vec3f.cpp
+	<math.h>
+	"vec3f.h"
+
+1374629892 c:\documents and settings\resmi novianti\my documents\downloads\tugasbesargrafkom-master\vec3f.h
+	<iostream>
+
+1374725197 source:c:\documents and settings\resmi novianti\my documents\downloads\tugasbesargrafkom-master\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	"imageloader.h"
+	"vec3f.h"
+
+1374629892 source:i:\tugasbesargrafkom-master\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1374629892 i:\tugasbesargrafkom-master\imageloader.h
+
+1374725198 source:i:\tugasbesargrafkom-master\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	"imageloader.h"
+	"vec3f.h"
+
+1374629892 i:\tugasbesargrafkom-master\vec3f.h
+	<iostream>
+
+1374629892 source:i:\tugasbesargrafkom-master\vec3f.cpp
+	<math.h>
+	"vec3f.h"
+
+1374629892 source:i:\tugasbesargrafkom\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1374629892 i:\tugasbesargrafkom\imageloader.h
+
+1374725198 source:i:\tugasbesargrafkom\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	"imageloader.h"
+	"vec3f.h"
+
+1374629892 i:\tugasbesargrafkom\vec3f.h
+	<iostream>
+
+1374629892 source:i:\tugasbesargrafkom\vec3f.cpp
+	<math.h>
+	"vec3f.h"
+
+1374629892 source:i:\tubes_grafkom\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1374629892 i:\tubes_grafkom\imageloader.h
+
+1374725198 source:i:\tubes_grafkom\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	"imageloader.h"
+	"vec3f.h"
+
+1374629892 i:\tubes_grafkom\vec3f.h
+	<iostream>
+
+1374629892 source:i:\tubes_grafkom\vec3f.cpp
+	<math.h>
+	"vec3f.h"
+
