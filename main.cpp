@@ -3265,66 +3265,6 @@ void display(void) {
         glPopMatrix();
         glPopMatrix();
 
-        //lokasi pohon3
-        glPushMatrix();
-        glTranslatef(55,0.5,-10);
-        glScalef(0.4,0.4,0.4);
-        glRotated(180,0,1,0);
-        pohon();
-
-        //ranting1
-        ranting();
-
-        //ranting2
-        glPushMatrix();
-        glScalef(1,1,1);
-        glTranslatef(0,28,25);
-        glRotated(270,1,0,0);
-        ranting();
-        glPopMatrix();
-
-        //daun besar
-        glPushMatrix();
-        glScalef(1.8,1.8,1.8);
-        glTranslatef(0,-6,21.5);
-        glRotatef(-55,1,0,0);
-        ranting();
-        glPopMatrix();
-
-        glPopMatrix();
-        glPopMatrix();
-        glPopMatrix();
-
-         //lokasi pohon4
-        glPushMatrix();
-        glTranslatef(50,0.5,27);
-        glScalef(0.4, 0.4, 0.4);
-        glRotatef(60,0,1,0);
-        pohon();
-
-        //ranting1
-        ranting();
-
-        //ranting2
-        glPushMatrix();
-        glScalef(1, 1, 1);
-        glTranslatef(0,28,25);
-        glRotatef(260,1,0,0);
-        ranting();
-        glPopMatrix();
-
-        //daun besar
-        glPushMatrix();
-        glScalef(1.8, 1.8, 1.8);
-        glTranslatef(0,-6,21.5);
-        glRotatef(-55,1,0,0);
-        ranting();
-        glPopMatrix();
-
-        glPopMatrix();
-        glPopMatrix();
-        glPopMatrix();
-
         //lokasi pohon5
         glPushMatrix();
         glTranslatef(25,0.5,-38);
